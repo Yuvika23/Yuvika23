@@ -27,14 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuvika23&theme=radical&hide_border=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvika23&show_icons=true&theme=radical&hide_border=true" width="400px" />
-</div>
-
----
-
 ## 📬 Connect with Me
 <p align="center">
   <a href="[https://linkedin.com/in/yuvika-gandhi](https://www.linkedin.com/in/yuvika-gandhi-3b786b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
